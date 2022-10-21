@@ -146,7 +146,7 @@ while True:
         else:
             print("\n\nPlease enter yes or no.  You have been returned to the main menu.")
     elif answer == "x":
-        print("\nGoodbye")
+        print("\nGoodbye.")
         break 
     else:
         print("\n\n\nPlease enter 1, 2 or x")
